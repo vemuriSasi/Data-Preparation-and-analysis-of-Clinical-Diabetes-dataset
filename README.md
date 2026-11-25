@@ -66,7 +66,7 @@ Three physical interaction metrics were engineered to represent metabolic indice
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shivchef/Data-Prepration-and-analysis-on-California-housing-test-dataset-.git
+   git clone [https://github.com/vemuriSasi/Data-Preparation-and-analysis-of-Clinical-Diabetes-dataset.git]
    ```
 
 2. **Deploy project dependencies:**
